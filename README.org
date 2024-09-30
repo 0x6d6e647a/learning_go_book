@@ -1,0 +1,7 @@
+#+TITLE: Learning Go
+
+Exercise Solutions
+
+- Title :: Learning Go, 2nd Edition
+- Author :: Jon Bodner
+- ISBN-13 :: 9781098139292
