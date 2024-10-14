@@ -1,0 +1,5 @@
+#+TITLE: Chapter 10: Modules, Packages, and Imports
+
+Solution requires creation of a separate repository.
+
+See the [[https://github.com/learning-go-book-2e/ch10_solution][book's solution]].
