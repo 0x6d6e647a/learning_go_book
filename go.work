@@ -1,0 +1,6 @@
+go 1.23.4
+
+use (
+	"./Ch 01 - Setting Up Your Go Environment"
+	"./Ch 15 - Writing Tests/simplewebapp-main"
+)
